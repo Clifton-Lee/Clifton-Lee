@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="https://github.com/Clifton-Lee/Clifton-Lee/blob/master/Clifton%20The%20Data%20Titan.gif", width = "900" height = "300"/>
+  <img  src="https://github.com/Clifton-Lee/Clifton-Lee/blob/master/Clifton%20The%20Data%20Titan.gif", width = "1200" height = "300"/>
 </p>
 
 # Greetings, Everyone! 👋🏾
