@@ -6,7 +6,7 @@
 # Greetings, Everyone! 👋🏾
 Thank you for looking over my data science project repositories.
 
-I like working with data, and I hope you enjoy the projects that I have created during my spare time.
+I love working with data, and I hope you enjoy the projects that I have created during my spare time.
 
 ---
 ### **😊 About me**
