@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/63034651/123925231-531db900-d950-11eb-96a7-96a606201f3a.png">
+  <img  src="https://github.com/Clifton-Lee/Clifton-Lee/blob/master/Clifton%20The%20Data%20Titan.gif">
 </p>
 
 # Greetings, Everyone! 👋🏾
