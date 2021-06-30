@@ -5,5 +5,7 @@
 </p>
 
 
-**Thank you for taking the time to look over my Data-Science-Projects Repository. I like working with data, and I hope you enjoy the projects that I work on in my spare time.** 
+**Thank you for taking the time to look over my Data-Science-Projects Repository.**
+
+**I like working with data, and I hope you enjoy the projects that I have created during my spare time.** 
 
