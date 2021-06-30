@@ -1,7 +1,7 @@
 # Hello, I'm Clifton! 👋🏾
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/63034651/123919338-780f2d80-d94a-11eb-9d70-77af7b6a9209.png">
+  <img  src="https://user-images.githubusercontent.com/63034651/123919723-d6d4a700-d94a-11eb-9966-714d2dcb8ec5.png">
 </p>
 
 
