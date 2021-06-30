@@ -19,5 +19,5 @@ I like working with data, and I hope you enjoy the projects that I have created 
 - ⚡ Fun fact: I love working out 🏋🏽 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://user-images.githubusercontent.com/63034651/124021713-7d539300-d9b1-11eb-8d67-d4d0add1d9a1.png">  </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/63034651/124022502-7da05e00-d9b2-11eb-9bc6-6b50972d3aff.png">  </p>
 
