@@ -12,7 +12,7 @@ I love working with data, and I hope you enjoy the projects that I have created 
 ### **😊 About me**
 
 - 🔭 I have four years of industry expertise as a seasoned data analytics specialist.
-- 🧰 R, Python, SQL, DAX, Tableau, Power BI, and MS Excel are among the analytical tools in my toolkit.
+- 🧰 Python, SQL, DAX, Power BI, and MS Excel are among the analytical tools in my toolkit.
 - 🎰 Enthusiast of Machine Learning
 - 🌱 I’m a life long learner
 - 🤔 I work on challenging assignments in my spare time
