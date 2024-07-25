@@ -11,7 +11,7 @@ I enjoy working with data and hope you enjoy the projects I have produced in my 
 ---
 ### **😊 About me**
 
-- 🔭 I have four years of industry expertise as a seasoned data analytics specialist.
+- 🔭 I have over 7 years of industry expertise as a seasoned data professional.
 - 🧰 Python, R, SQL, DAX, Power BI, and MS Excel are among the analytical tools in my toolkit.
 - 🎰 Enthusiast of Machine Learning
 - 🌱 I’m a lifelong learner
