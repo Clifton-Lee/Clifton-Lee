@@ -4,9 +4,9 @@
 </p>
 
 # Greetings, Everyone! 👋🏾
-Thank you for looking over my data science project repositories.
+Thank you for checking out my data science project repositories. 
 
-I love working with data, and I hope you enjoy the projects that I have created during my spare time.
+I enjoy working with data and hope you enjoy the projects I have produced in my downtime.
 
 ---
 ### **😊 About me**
@@ -14,7 +14,7 @@ I love working with data, and I hope you enjoy the projects that I have created 
 - 🔭 I have four years of industry expertise as a seasoned data analytics specialist.
 - 🧰 Python, R, SQL, DAX, Power BI, and MS Excel are among the analytical tools in my toolkit.
 - 🎰 Enthusiast of Machine Learning
-- 🌱 I’m a life long learner
+- 🌱 I’m a lifelong learner
 - 🤔 I work on challenging assignments in my spare time
 - ⚡ Fun fact: I love working out 🏋🏽 
 
